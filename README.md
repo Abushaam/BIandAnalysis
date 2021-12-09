@@ -4,7 +4,7 @@ This repo will contain different reports that I have developed using Power BI. T
 
 **Sales Analysis Dashboard**
 ```
-**Note:** The map has drill-down enabled to the level of Cities.
+Note: The map has drill-down enabled to the level of Cities.
 ```
 
 ![Alt text](https://github.com/Abushaam/PowerBI/blob/main/Sales_Analysis/Report_Snapshot.JPG?raw=true "Sales Analysis")
