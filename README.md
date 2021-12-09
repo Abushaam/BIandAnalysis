@@ -5,3 +5,7 @@ This repo will contain different reports that I have developed using Power BI. T
 **Sales Analysis Dashboard**
 
 ![Alt text](https://github.com/Abushaam/PowerBI/blob/main/Sales_Analysis/Report_Snapshot.JPG?raw=true "Sales Analysis")
+
+**Customer Segmentation**
+
+![Alt text](https://github.com/Abushaam/PowerBI/blob/main/Customer_Segmentation/Dashboard_Snapshot.JPG?raw=true "Customer Segmentation")
