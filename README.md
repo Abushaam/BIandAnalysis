@@ -1,2 +1,1 @@
-# BIandAnalysis
-This repository contains projects I have worked on related to Business Intelligence and Analytics
+This repo will contain different reports that I have developed using Power BI. The data used in these reports is public data available in the internet. The data in these reports are for demonstration purposes only and it is not true data.
